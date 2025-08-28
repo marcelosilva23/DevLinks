@@ -12,11 +12,4 @@ function toggleMode() {
     //se tver sem light mode, manter a imagem normal
     img.setAttribute("src", "./assets/avatar-black.png")
   }
-
-  /*
-  if (html.classList.contains("light")) {
-    html.classList.remove("light")
-  } else {
-    html.classList.add("light")
-  } */
 }
