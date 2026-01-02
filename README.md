@@ -36,7 +36,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://marcelosilva23.github.io/rocketSeat/). 
+Você pode visualizar o layout do projeto através [DESTE LINK](https://marcelosilva23.github.io/DevLinks/). 
 
 ## :memo: Licença
 
